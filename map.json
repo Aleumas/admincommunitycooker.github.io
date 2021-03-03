@@ -69,5 +69,41 @@
 		"postLink": "http://cbq.ttj.mybluehost.me/naivasha-mixed-secondary-community-cooker",
 		"imageLink": "http://cbq.ttj.mybluehost.me/wp-content/uploads/2020/07/download-2.jpeg",
 		"loc": [-0.7172, 36.4310]
+	},
+	{	
+		"name": "Blessed Generation High School",
+		"postLink": "http://cbq.ttj.mybluehost.me/blessed-generation-high-school",
+		"imageLink": "",
+		"loc": [-1.1479, 36.9907]
+	},
+	{	
+		"name": "Kigari Teachers Training College",
+		"postLink": "",
+		"imageLink": "",
+		"loc": [-0.8328, 35.4392]
+	},
+	{	
+		"name": "Young Life Africa Children's Home",
+		"postLink": "",
+		"imageLink": "",
+		"loc": [-1.1483, 36.9605]
+	},
+	{	
+		"name": "Shela Environmental Resident Group",
+		"postLink": "http://cbq.ttj.mybluehost.me/shela-environmental",
+		"imageLink": "",
+		"loc": [-2.2931, 40.9139]
+	},
+	{	
+		"name": "Kinondo Kwetu Health Center",
+		"postLink": "http://cbq.ttj.mybluehost.me/kinondo-kwetu-health-centre",
+		"imageLink": "",
+		"loc": [-4.3898, 39.5459]
+	},
+	{	
+		"name": "M-PESA Foundation Academy",
+		"postLink": "http://cbq.ttj.mybluehost.me/mpesa-foundation-academy",
+		"imageLink": "",
+		"loc": [-1.0195, 37.0003]
 	}
 ]
